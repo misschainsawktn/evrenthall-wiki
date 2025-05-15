@@ -1,10 +1,11 @@
 ---
-title: Welcome to Evrenthall
+title: Sample Title
 draft: false
 tags:
   - hub
   - y-2025
 ---
+
 # WELCOME TO EVRENTHALL
 
 |             ![[cover_introductory_pages.jpg\|375x375]]             |             ![[cover_worldbuilding_pages.jpg\|375x375]]              |      ![[cover_evrenthall_chronicles.jpg\|375x375]]       |
