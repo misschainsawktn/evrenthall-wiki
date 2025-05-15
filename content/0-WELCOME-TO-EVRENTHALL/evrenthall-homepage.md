@@ -1,5 +1,5 @@
 ---
-title: Sample Title
+title: Welcome to Evrenthall
 draft: false
 tags:
   - hub
