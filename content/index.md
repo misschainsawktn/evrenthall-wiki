@@ -4,12 +4,12 @@ tags:
   - hub
   - y-2025
 ---
+> [!warning]
+> If you're one of my players, please do not read any articles tagged as #spoiler, as they might ruin your experience with some stuff! I will gradually remove spoiler tags as the exploration progresses, so you can access new info you gain access to at any time :)
 
-# WELCOME TO EVRENTHALL
-
-|      ![[cover_introductory_pages.jpg\|350]]      |      ![[cover_worldbuilding_pages.jpg\|350]]       |        ![[cover_evrenthall_chronicles.jpg\|350]]         |
-| :----------------------------------------------: | :------------------------------------------------: | :------------------------------------------------------: |
-| [[index#introductory-pages\|Introductory Pages]] | [[index#worldbuilding-pages\|Worldbuilding Pages]] | [[THE EVRENTHALL CHRONICLES\|The Evrenthall Chronicles]] |
+| ![[content/z_attachments/cover/cover_introductory_pages.jpg\|350]] | ![[content/z_attachments/cover/cover_worldbuilding_pages.jpg\|350]] | ![[content/z_attachments/cover/cover_evrenthall_chronicles.jpg\|350]] |
+| :----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-------------------------------------------------------------------: |
+|          [[index#introductory-pages\|Introductory Pages]]          |         [[index#worldbuilding-pages\|Worldbuilding Pages]]          |       [[THE EVRENTHALL CHRONICLES\|The Evrenthall Chronicles]]        |
 
 **Evrenthall** is a long-term expanded fantasy worldbuilding project, which also serves as the setting for the adventures and campaigns I will run as a Dungeon Master in **Dungeons & Dragons 5th Edition**, the TTRPG (*Tabletop Role-Playing Game*) some of my friends and I play semi-regularly.
 
@@ -18,18 +18,18 @@ Development is currently pretty active, as this is a passion project very near a
 
 ---
 
-# INTRODUCTORY PAGES
+# Introductory Pages
 
-| ![historical_rundown\|hsmall wsmall center cover](https://file.garden/ZRb-IbUQNGkxIJLf/EVRENTHALL/MISC%20ASSETS/historical_rundown.jpg) |   ![denizens\|hsmall wsmall center cover](https://file.garden/ZRb-IbUQNGkxIJLf/EVRENTHALL/MISC%20ASSETS/denizens.jpg)    |           ![magic\|hsmall wsmall center cover](https://file.garden/ZRb-IbUQNGkxIJLf/EVRENTHALL/MISC%20ASSETS/magic.jpg)           |            ![pantheon\|hsmall wsmall center cover](https://file.garden/ZRb-IbUQNGkxIJLf/EVRENTHALL/MISC%20ASSETS/pantheon.jpg)             |     ![atlas\|hsmall wsmall center cover](https://file.garden/ZRb-IbUQNGkxIJLf/EVRENTHALL/MISC%20ASSETS/atlas.jpg)      |
-| :-------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-|                                                        [[A HISTORICAL RUNDOWN]]                                                         |                                                [[DENIZENS OF EVRENTHALL]]                                                |                                                  [[THE BOUNDLESS FLOW OF MAGIC]]                                                  |                                                      [[THE EVER-UNRAVELING PANTHEON]]                                                      |                                               [[THE FRAGMENTARY ATLAS]]                                                |
-|              An overview of the history of the world, starting from its not-so-far beginning and glancing into its future.              | A catalogue of the so-called “Denizens” — creatures that are sentient, sapient and have similar communicative abilities. | An introduction to the way magic works in Evrenthall, with a focus on its origin, on its different branches and its applications. | Most of what is needed to know about the deities and the pseudo-deities of Evrenthall, explaining differences in their powers and natures. | An approximation of the geography of Evrenthall, based on local maps and findings from adventurers all over the world. |
+|                                    ![[cover_historical_rundown.jpg\|200]]                                     |                                               ![[cover_denizens.jpg\|200]]                                               |                                                     ![[cover_magic.jpg\|200]]                                                     |                                                        ![[cover_pantheon.jpg\|200]]                                                        |                                               ![[cover_atlas.jpg\|200]]                                                |
+| :-----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+|                                           [[A HISTORICAL RUNDOWN]]                                            |                                                [[DENIZENS OF EVRENTHALL]]                                                |                                                  [[THE BOUNDLESS FLOW OF MAGIC]]                                                  |                                                      [[THE EVER-UNRAVELING PANTHEON]]                                                      |                                               [[THE FRAGMENTARY ATLAS]]                                                |
+| An overview of the history of the world, starting from its not-so-far beginning and glancing into its future. | A catalogue of the so-called “Denizens” — creatures that are sentient, sapient and have similar communicative abilities. | An introduction to the way magic works in Evrenthall, with a focus on its origin, on its different branches and its applications. | Most of what is needed to know about the deities and the pseudo-deities of Evrenthall, explaining differences in their powers and natures. | An approximation of the geography of Evrenthall, based on local maps and findings from adventurers all over the world. |
 
 Pages with more general information about the world, touching on some topics pivotal in the understanding of Evrenthall. Recommended to read prior to proceeding into the more specific ones, as they might explain some concepts or terminology that could otherwise be unclear.
 
 ---
 
-# WORLDBUILDING PAGES
+# Worldbuilding Pages
 
 Hub/map-of-content pages to more specific topics and folders, each with a focus on a different one. Unfortunately, due to sheer amount of them, the table format I used above wouldn't work well, so I'm just listing them here.
 
@@ -59,7 +59,7 @@ I have elected to add things only when they actually exist, in order to reduce m
 
 ---
 
-# THE EVRENTHALL CHRONICLES
+# The Evrenthall Chronicles
 
 - [[PERSONAL STORIES|Personal Stories]]
 - [[CAMPAIGNS AND ONESHOTS|Campaigns and Oneshots]]
