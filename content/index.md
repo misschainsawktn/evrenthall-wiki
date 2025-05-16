@@ -7,6 +7,7 @@ tags:
 > [!warning]
 > If you're one of my players, please do not read any articles tagged as #spoiler, as they might ruin your experience with some stuff! I will gradually remove spoiler tags as the exploration progresses, so you can access new info you gain access to at any time :)
 
+
 | ![[content/z_attachments/cover/cover_introductory_pages.jpg\|350]] | ![[content/z_attachments/cover/cover_worldbuilding_pages.jpg\|350]] | ![[content/z_attachments/cover/cover_evrenthall_chronicles.jpg\|350]] |
 | :----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-------------------------------------------------------------------: |
 |          [[index#introductory-pages\|Introductory Pages]]          |         [[index#worldbuilding-pages\|Worldbuilding Pages]]          |       [[THE EVRENTHALL CHRONICLES\|The Evrenthall Chronicles]]        |
