@@ -7,9 +7,9 @@ tags:
   - y-2025
 ---
 
-# INTRODUCTION TO MAGIC
+# Introduction to Magic
 
-**Magic** is a central part of most people’s lives in Evrenthall, woven into the fabric of Existence itself due to its connection to the [[THE EVER-UNRAVELING PANTHEON|Pantheon]]. Most adventurers in Evrenthall know how to use at least a little bit of magic (although it is not a requirement to go adventuring, it comes quite handy in many situations), or use some sort of magic item, but even a lot of common people have some very basic knowledge of it — mostly in the measure where it could be helpful in their daily lives.
+**Magic** is a central part of most people’s lives in Evrenthall, woven into the fabric of Existence itself due to its connection to the [[pantheon|Pantheon]]. Most adventurers in Evrenthall know how to use at least a little bit of magic (although it is not a requirement to go adventuring, it comes quite handy in many situations), or use some sort of magic item, but even a lot of common people have some very basic knowledge of it — mostly in the measure where it could be helpful in their daily lives.
 
 ## Origins
 
@@ -27,6 +27,26 @@ Magic usage can get *incredibly* specialized —
 
 ---
 
-# BRANCHES OF MAGIC
+# Branches of Magic
+
+The **Branches of Magic** pertain to the way the Fluxes of Magic are created and to the way the spellcaster can draw from them. They’re not necessarily bound to any class, although there are some more associated with certain specializations due to a matter of convenience — it’s much more common to see a Warlock using Dialogic Magic and a Druid using Singular Magic, for example. Some spellcasters elect to specialize in a Branch and one Branch only, while others have a preference for choosing different ones depending on the use cases.
+
+## Dialogic Magic
+
+[[dialogic-magic|Dialogic Magic]] works by establishing a direct contact between the spellcaster and the being they have elected to draw their power from. 
+
+## Singular Magic
 
 
+
+## Chiral Magic
+
+[[chiral-magic|Chiral Magic]] expands on the premise of Singular Magic, 
+
+## Rune Magic
+
+[[rune-magic|Rune Magic]] seeks to channel Hegemonic fluxes in a relatively easy to control way through the usage of Runes.
+
+---
+
+# Schools of Magic

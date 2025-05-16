@@ -7,10 +7,9 @@ tags:
   - y-2025
 ---
 
-
-
 > [!caption|right] 
-> ![[public/z_attachments/armoria_eshayunad.png]]
+> ![[content/z_attachments/armoria/armoria_eshayunad.png]]
 > Coat of Arms of Eshayunad
 
+**Eshayunad** is one 
 
