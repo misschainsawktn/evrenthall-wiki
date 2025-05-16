@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!caption|right] 
-> ![[armoria_eshayunad.png]]
+> ![[z_attachments/armoria/armoria_eshayunad.png]]
 > Coat of Arms of Eshayunad
 
 **Eshayunad** is one of the Nine Continents
