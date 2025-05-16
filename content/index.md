@@ -9,9 +9,9 @@ tags:
 
 ---
 
-| ![[public/z_attachments/cover/cover_introductory_pages.jpg\|350]] |      ![[cover_worldbuilding_pages.jpg\|350]]       |        ![[cover_evrenthall_chronicles.jpg\|350]]         |
-| :---------------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------------: |
-|         [[index#introductory-pages\|Introductory Pages]]          | [[index#worldbuilding-pages\|Worldbuilding Pages]] | [[THE EVRENTHALL CHRONICLES\|The Evrenthall Chronicles]] |
+|         ![[cover_intro_pages.jpg\|350]]          |      ![[cover_worldbuilding_pages.jpg\|350]]       |        ![[cover_evrenthall_chronicles.jpg\|350]]         |
+| :----------------------------------------------: | :------------------------------------------------: | :------------------------------------------------------: |
+| [[index#introductory-pages\|Introductory Pages]] | [[index#worldbuilding-pages\|Worldbuilding Pages]] | [[THE EVRENTHALL CHRONICLES\|The Evrenthall Chronicles]] |
 
 **Evrenthall** is a long-term expanded fantasy worldbuilding project, which also serves as the setting for the adventures and campaigns I will run as a Dungeon Master in **Dungeons & Dragons 5th Edition**, the TTRPG (*Tabletop Role-Playing Game*) some of my friends and I play semi-regularly.
 
