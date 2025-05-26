@@ -4,8 +4,11 @@ tags:
   - hub
   - y-2025
 ---
-> [!warning]
+> [!warning] A Warning for Players
 > If you're one of my players, please do not read any articles tagged as #spoiler, as they might ruin your experience with some stuff! I will gradually remove spoiler tags as the exploration progresses, so you can access new info you gain access to at any time :)
+
+> [!danger] Another Warning...
+> Please note that the folders are still not really well organized, and they're not really in a specific order. Feel free to snoop around and explore the world as you enjoy, even without much structure.
 
 ---
 
@@ -49,10 +52,9 @@ Pages focusing on cultural aspects of Evrenthall, across its continents, countri
 
 ## Appendices and Miscellanea
 
-For everything else I didn't know how to otherwise sort. Includes miscellaneous other information, game mechanics and similar things.
+For miscellaneous articles and everything else I didn't know how to otherwise sort. A bit of a brain dump.
 - [[TIME AND ITS MEASUREMENT|Time and its Measurement]]
 - [[821 - NOTABLE EVENTS|Notable Events]]
-- [[CLASSES AND SUBCLASSES|Classes and Subclasses]]
 
 %% 
 NOTE TO SELF:
