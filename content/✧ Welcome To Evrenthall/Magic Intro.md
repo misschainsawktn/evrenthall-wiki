@@ -9,7 +9,7 @@ tags:
 
 # Introduction to Magic
 
-**Magic** is a central part of most people’s lives in Evrenthall, woven into the fabric of Existence itself due to its connection to the [[pantheon|Pantheon]]. Most adventurers in Evrenthall know how to use at least a little bit of magic (although it is not a requirement to go adventuring, it comes quite handy in many situations), or use some sort of magic item, but even a lot of common people have some very basic knowledge of it — mostly in the measure where it could be helpful in their daily lives.
+**Magic** is a central part of most people’s lives in Evrenthall, woven into the fabric of Existence itself due to its connection to the [[Pantheon|Pantheon]]. Most adventurers in Evrenthall know how to use at least a little bit of magic (although it is not a requirement to go adventuring, it comes quite handy in many situations), or use some sort of magic item, but even a lot of common people have some very basic knowledge of it — mostly in the measure where it could be helpful in their daily lives.
 
 ## Origins
 
