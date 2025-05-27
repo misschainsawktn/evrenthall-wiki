@@ -5,4 +5,6 @@ tags:
   - space
   - space/continent
   - y-2025
+aliases:
+  - Xiu-Renyou
 ---

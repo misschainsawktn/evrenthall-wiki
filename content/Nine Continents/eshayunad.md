@@ -5,11 +5,7 @@ tags:
   - space
   - space/continent
   - y-2025
+aliases:
+  - Eshayunad
 ---
-
-> [!caption|right] 
-> ![[z_attachments/armoria/armoria_eshayunad.png]]
-> Coat of Arms of Eshayunad
-
-**Eshayunad** is one of the Nine Continents
 

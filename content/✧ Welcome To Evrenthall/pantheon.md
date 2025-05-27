@@ -6,6 +6,8 @@ tags:
   - culture
   - culture/religion
   - y-2025
+aliases:
+  - Pantheon
 ---
 # Introduction to the Pantheon
 
