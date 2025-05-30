@@ -2,5 +2,8 @@
 title: The Fragmentary Atlas
 draft: true
 tags:
+  - "#hub"
+  - "#space"
+  - "#y-2025"
 ---
-The rest of the stuff goes here! And girlllll you can use **Markdownnnnnnn** :)
+
