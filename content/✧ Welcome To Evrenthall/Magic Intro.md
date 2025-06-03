@@ -7,6 +7,7 @@ tags:
   - y-2025
 aliases:
   - Magic
+created: 2025-05-27
 ---
 # Introduction to Magic
 
@@ -22,12 +23,15 @@ Depending on the type of deity, a Flux could be generated in various ways: most 
 There is no such thing as a natural-born magic user in Evrenthall: that of magic is a subject not unlike any other, and as such must be studied in order to understand and use it. Some creatures may be bestowed with the ability to use magic by a deity, but it is not a particularly common occurrence, and even then the limits on its usage are pretty strict.
 Most people get taught some form of simple magic since childhood — usually some inoffensive cantrips or some very easy spells — and, later on in their life, choose whether to continue their studies
 
+
+%%
 ## Using Magic
 
-Magic usage can get *incredibly* specialized —
+Magic usage can get *incredibly* specialized — 
+
+%%
 
 ---
-
 # Branches of Magic
 
 The **Branches of Magic** pertain to the way the Fluxes of Magic are created and to the way the spellcaster can draw from them. They’re not necessarily bound to any class, although there are some more associated with certain specializations due to a matter of convenience — it’s much more common to see a Warlock using Dialogic Magic and a Druid using Singular Magic, for example. Some spellcasters elect to specialize in a Branch and one Branch only, while others have a preference for choosing different ones depending on the use cases.
@@ -49,5 +53,4 @@ The **Branches of Magic** pertain to the way the Fluxes of Magic are created and
 [[Rune Magic]] seeks to channel Hegemonic fluxes in a relatively easy to control way through the usage of Runes.
 
 ---
-
 # Schools of Magic

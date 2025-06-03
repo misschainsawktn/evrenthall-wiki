@@ -19,12 +19,12 @@ This log will include both content updates and updates to the site itself, added
 
 ## June 2025
 ### June 3rd
-- Got some CSS snippets I added working, although I still can't figure the `[!column]` callout out...
+- Managed to get some CSS snippets I added to work, although I still can't figure the `[!column]` callout out...
 - Additional cosmetic updates and tweaks
-	- Made the page width slightly larger
+	- Made the page width slightly larger and the sidebars slightly thinner
 	- Added custom scrollbars
-	- Completed color palette for dark mode (light mode is still a little bit ugly, I will try to fix it someday)
-- 
+	- Completed color palette adjustments for dark mode (light mode is still a little bit ugly, I will try to fix it someday)
+- Updated the [[homepage]] with some more content
 
 
 %%

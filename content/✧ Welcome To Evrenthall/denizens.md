@@ -7,6 +7,7 @@ tags:
   - life/fauna
   - life/fauna/denizens
   - y-2025
+created: 2025-05-30
 ---
 
 > [!example]+ Suffix Guide

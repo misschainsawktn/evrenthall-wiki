@@ -8,6 +8,7 @@ tags:
   - y-2025
 aliases:
   - Pantheon
+created: 2025-05-30
 ---
 # Introduction to the Pantheon
 
@@ -40,7 +41,7 @@ The **Hegemon** are a load-bearing element of the structure of the Universe, wov
 ## Amphytrion
 
 ### Founder Amphytrion
-Each [[Nine Continents|continent]] of Evrenthall has an Amphytrion regarded to be its “Founder”, the deity who willed the creation or the evolution of the corresponding continent into what it is in the present. The Founder Amphytrion have their own official cults and traditions associated to them, and they are generally the most venerated omes on the continents’ territories.
+Each [[Nine Continents|continent]] of Evrenthall has an Amphytrion regarded to be its “Founder”, the deity who willed the creation or the evolution of the corresponding continent into what it is in the present. The Founder Amphytrion have their own official cults and traditions associated to them, and they are generally the most venerated ones on the continents’ territories.
 - [[Ydani the Viridian]], Founder of [[Eshayunad]]
 - [[Mydorahm the Guardian]], Founder of [[Hysthyalm]]
 - [[Devrée the Alchemist]], Founder of [[Luerien]]

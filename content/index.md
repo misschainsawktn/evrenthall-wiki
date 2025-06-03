@@ -3,6 +3,10 @@ title: Welcome to Evrenthall
 tags:
   - hub
   - y-2025
+created: 2025-05-27
+modified: 2025-06-03
+aliases:
+  - homepage
 ---
 > [!warning]+ A Warning for Players
 > If you're one of my players, please do not read any articles tagged as #spoiler, as they might ruin your experience with some stuff! I will gradually remove spoiler tags as the exploration progresses, so you can access new info you gain access to at any time :)
@@ -39,7 +43,7 @@ Development is currently pretty active, as this is a passion project very near a
 
 # Introductory Pages
 
-|                          ![[z_attachments/cover/cover_historical_rundown.jpg\|200]]                           |                                     ![[z_attachments/cover/cover_denizens.jpg\|200]]                                     |                                           ![[z_attachments/cover/cover_magic.jpg\|200]]                                           |                                              ![[z_attachments/cover/cover_pantheon.jpg\|200]]                                              |                                     ![[z_attachments/cover/cover_atlas.jpg\|200]]                                      |
+|                  ![[z_attachments/cover/cover_historical_rundown.jpg\|hsmall wsmall cover]]                   |                             ![[z_attachments/cover/cover_denizens.jpg\|hsmall wsmall cover]]                             |                                   ![[z_attachments/cover/cover_magic.jpg\|hsmall wsmall cover]]                                   |                                      ![[z_attachments/cover/cover_pantheon.jpg\|hsmall wsmall cover]]                                      |                             ![[z_attachments/cover/cover_atlas.jpg\|hsmall wsmall cover]]                              |
 | :-----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
 |                              [[Historical Rundown\|A Brief Historical Rundown]]                               |                                           [[Denizens\|Denizens of Evrenthall]]                                           |                                           [[Magic Intro\|The Boundless Flow of Magic]]                                            |                                                 [[Pantheon\|The Ever-Unraveling Pantheon]]                                                 |                                            [[Atlas\|The Fragmentary Atlas]]                                            |
 | An overview of the history of the world, starting from its not-so-far beginning and glancing into its future. | A catalogue of the so-called “Denizens” — creatures that are sentient, sapient and have similar communicative abilities. | An introduction to the way magic works in Evrenthall, with a focus on its origin, on its different branches and its applications. | Most of what is needed to know about the deities and the pseudo-deities of Evrenthall, explaining differences in their powers and natures. | An approximation of the geography of Evrenthall, based on local maps and findings from adventurers all over the world. |
@@ -79,7 +83,32 @@ I have elected to add things only when they actually exist, in order to reduce m
 
 # The Evrenthall Chronicles
 
-- [[Personal Stories]]
-- [[Campaigns and Oneshots]]
+> [!info|wsmall right text-center title-center] JUMP TO:
+> [[index#Personal Stories|Personal Stories]] 
+> 
+> [[index#Campaigns and Oneshots|Campaigns and Oneshots]]
+
+***"The Evrenthall Chronicles"*** (or, sometimes, just *"The Chronicles"*) is the collective title given to all more-or-less coherent narratives that have the world of Evrenthall as their setting. 
+
+Some of these, listed under "**Personal Stories**", are ones that I write all by myself and **for** myself, with the main goal to get something engaging going on and to further the worldbuilding. It's pretty much just a hobby project of very little consequence, which I work on sporadically in the middle of updating the site and writing additional wiki articles.
+
+Others, listed under "**Campaigns and Oneshots**", are instead written and intended to be a playable experience for my lovely friends and players, which means that they also participate in how the details and specific parts of the stories unravel (although the plot is still mainly written by me and, if necessary, adjusted to their choices and actions). These **could not exist** without my friends, so I want to make it extremely clear how much I love and appreciate them and their support in this effort! :)
+
+## Personal Stories
 
 
+## Campaigns and Oneshots
+
+> [!warning]+ A Warning for Players
+> If you do not recognize the title of one of the Chronicles presented here, or if you *do* recognize the title but you are yet to play/are still playing it, **please do not read**!! Same rules as the #spoiler "policy" apply here, and I will be removing spoiler tags once the adventure is finished so that you can revisit it freely.
+> 
+> If you're not one of my players, feel free to read whatever!
+
+### 🍄 Morel Support
+
+![[z_attachments/banner/banner_MorelSupport.png|wmed left]]
+
+> [!abstract|title-center]+ Premise
+> A motley crew of [[Beyernde|Beyerndian]] explorers are sent on a mission to check in on some abnormal activity beyond the Frontiers of Progress. With the area being pretty much unexplored, who knows what they might run into...
+
+[[Morel Support]] will be my debut oneshot as a master for Evrenthall-related stuff, and the first direct experience my players will get of the world! Given that I have to get back into the flow of DMing and that I prefer the role-playing aspect over the purely mechanical one, the mood will be mostly chill and more focused on exploration and character interactions, but that certainly doesn't mean there couldn't be some more dangerous encounters on the way to complete the mission. 

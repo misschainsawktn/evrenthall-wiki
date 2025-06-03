@@ -1,5 +1,5 @@
 ---
-title: Hysthyalm, the Wandering Compass
+title: Hysthyalm, the Wayward Compass
 draft: false
 tags:
   - space

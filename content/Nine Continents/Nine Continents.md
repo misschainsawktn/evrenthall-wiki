@@ -7,6 +7,7 @@ tags:
   - "#y-2025"
 aliases:
   - Continents
+created: 2025-05-29
 ---
 The world of Evrenthall is divided into nine main landmasses, considered to be the **Nine Continents**. Each of them was shaped by one of the [[Pantheon#Founder Amphytrion|Founder Amphytrion]], giving it unique climatic, social and cultural characteristics setting it aside from the others.
 Each continent is associated with various symbols, generally unique and clearly distinguishable from those of the other continents: these include the respective coats of arms, the glyph associated with the continent name (pictured before it in most cases) or the title bestowed upon it, among other minor ones.
@@ -19,9 +20,9 @@ Each continent is associated with various symbols, generally unique and clearly 
 > ![[z_attachments/armoria/armoria_eshayunad.png|250]]
 > Coat of arms of Eshayunad
 
-Covered in lush forests and gentle elevations, [[Eshayunad]] is 
+With a surface covered in lush forests and gentle elevations, rivers and streams flowing abundant and crystalline, and general cultural practices among the most open and welcoming in all of Evrenthall, [[Eshayunad]] is a true delight 
 
-## 𓎞 Hysthyalm, the Wandering Compass
+## 𓎞 Hysthyalm, the Wayward Compass
 
 > [!caption|left]
 > ![[z_attachments/armoria/armoria_hysthyalm.png|250]]
@@ -53,7 +54,8 @@ According to the traditional history of Evrenthall, [[Maaghteab]] was the first 
 > ![[z_attachments/armoria/armoria_tellurvauhr.png|250]]
 > Coat of arms of Tellurväuhr
 
-In common speech, [[Tellurväuhr]] is pretty much synonymous with progress, and for a good reason: of all the continents, it is the one where industrialization has reached its highest point, with technologies almost never seen anywhere else in Evrenthall being quite the common sight even in everyday life. 
+In common speech, [[Tellurväuhr]] is pretty much synonymous with progress, and for a good reason: of all the continents, it is the one where industrialization has reached its highest point, with technologies almost never seen anywhere else in Evrenthall being quite the common sight even in everyday life.
+While the old days of glory of the Tellurian Empire have been gone for a good while, 
 
 ## ⪀ Qor'chkis, the Glacial Fortress
 
