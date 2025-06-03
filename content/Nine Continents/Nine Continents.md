@@ -55,6 +55,7 @@ According to the traditional history of Evrenthall, [[Maaghteab]] was the first 
 > Coat of arms of Tellurväuhr
 
 In common speech, [[Tellurväuhr]] is pretty much synonymous with progress, and for a good reason: of all the continents, it is the one where industrialization has reached its highest point, with technologies almost never seen anywhere else in Evrenthall being quite the common sight even in everyday life.
+
 While the old days of glory of the Tellurian Empire have been gone for a good while, 
 
 ## ⪀ Qor'chkis, the Glacial Fortress
@@ -80,8 +81,7 @@ While the old days of glory of the Tellurian Empire have been gone for a good wh
 > ![[z_attachments/armoria/armoria_xiurenyou.png|250]]
 > Coat of arms of Xiu-Renyou
 
-Of all the continents, [[Xiu-Renyou]] is the smallest and most isolated one, only engaging in very sporadic communication with the outside world when it is strictly necessary. 
-
+Of all the continents, [[Xiu-Renyou]] is the smallest and most isolated one, only engaging in very sporadic communication with the outside world when it is strictly necessary. Besides, what could the world have to give to a country-continent that already runs as it should
 
 ## ꙮ Yaefrem, the Sunlit Crown
 
@@ -89,6 +89,11 @@ Of all the continents, [[Xiu-Renyou]] is the smallest and most isolated one, onl
 > [!caption|left]
 > ![[z_attachments/armoria/armoria_yaefrem.png|250]]
 > Coat of arms of Yaefrem
+
+> [!cite]
+> Oh, islands so vast the sun never sets,
+> 
+> 💬 Quote Author
 
 In a single word, the Commonwealth of [[Yaefrem]] can be—and often is—identified with one word: *supremacy*. Always priding itself its flagship trade, that of high-quality Magic Items, 
 
