@@ -1,5 +1,5 @@
 ---
-title: ⶑ Maaghteab, the Firstborn Heart
+title: Maaghteab, the Firstborn Heart
 draft: false
 tags:
   - space

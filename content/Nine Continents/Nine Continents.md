@@ -1,6 +1,6 @@
 ---
-title: The Nine Continents
-draft: true
+title: ✧ The Nine Continents
+draft: false
 tags:
   - "#hub"
   - space
@@ -21,21 +21,13 @@ Each continent is associated with various symbols, generally unique and clearly 
 
 Covered in lush forests and gentle elevations, [[Eshayunad]] is 
 
-## ⌯ Tellurväuhr, the Last Frontier
+## 𓎞 Hysthyalm, the Wandering Compass
 
 > [!caption|left]
-> ![[z_attachments/armoria/armoria_tellurvauhr.png|250]]
-> Coat of arms of Tellurväuhr
+> ![[z_attachments/armoria/armoria_hysthyalm.png|250]]
+> Coat of arms of Hysthyalm
 
-In common speech, [[Tellurväuhr]] is pretty much synonymous with progress and technology, and for a good reason: of all the continents, it is the one where 
-
-## ⪀ Qor'chkis, the Glacial Fortress
-
-> [!caption|left]
-> ![[z_attachments/armoria/armoria_qorchkis.png|250]]
-> Coat of arms of Qor'chkis
-
-[[Qor'chkis]] has a reputation for being a particularly inhospitable place, unkind to strangers not hailing from its lands, notoriously deadly for its inhabitants and foreigners alike.
+Profound [[Magic Intro|Fluxes of Magic]] course through [[Hysthyalm]], in every drop of water of its rivers and every little stone of its mountains and every tiny spark of its fires and every faint gust of air of its winds. 
 
 ## 🝳 Luerien, the Abyssal Lantern
 
@@ -43,17 +35,7 @@ In common speech, [[Tellurväuhr]] is pretty much synonymous with progress and t
 > ![[z_attachments/armoria/armoria_luerien.png|250]]
 > Coat of arms of Luerien
 
-[[Luerien]]
-
-
-## ꙮ Yaefrem, the Sunlit Crown
-
-
-> [!caption|left]
-> ![[z_attachments/armoria/armoria_yaefrem.png|250]]
-> Coat of arms of Yaefrem
-
-The Commonwealth of [[Yaefrem]] prides itself in its flagship trade, that of magic items
+A ring encircling an expanse of saltwater, with wonders hidden both below, among the waves of the sea, and above, between the clouds of the sky: such is how [[Luerien]] is most often described, allowing a glimpse into the wonders the continent has to offer. 
 
 
 ## ⶑ Maaghteab, the Firstborn Heart
@@ -64,6 +46,22 @@ The Commonwealth of [[Yaefrem]] prides itself in its flagship trade, that of mag
 > Coat of arms of Maaghteab
 
 According to the traditional history of Evrenthall, [[Maaghteab]] was the first of the continents to come into existence, and the one where [[Denizens]] first made their appearance.
+
+## ⌯ Tellurväuhr, the Last Frontier
+
+> [!caption|left]
+> ![[z_attachments/armoria/armoria_tellurvauhr.png|250]]
+> Coat of arms of Tellurväuhr
+
+In common speech, [[Tellurväuhr]] is pretty much synonymous with progress, and for a good reason: of all the continents, it is the one where industrialization has reached its highest point, with technologies almost never seen anywhere else in Evrenthall being quite the common sight even in everyday life. 
+
+## ⪀ Qor'chkis, the Glacial Fortress
+
+> [!caption|left]
+> ![[z_attachments/armoria/armoria_qorchkis.png|250]]
+> Coat of arms of Qor'chkis
+
+[[Qor'chkis]] has a reputation for being a particularly inhospitable place, unkind to strangers not hailing from its lands, notoriously deadly for its inhabitants and foreigners alike.
 
 ## ᨒ Xiranitzcaj, the Vivifying Hand
 
@@ -80,13 +78,15 @@ According to the traditional history of Evrenthall, [[Maaghteab]] was the first 
 > ![[z_attachments/armoria/armoria_xiurenyou.png|250]]
 > Coat of arms of Xiu-Renyou
 
-[[Xiu-Renyou]] is the smallest and most isolated of the continents
+Of all the continents, [[Xiu-Renyou]] is the smallest and most isolated one, only engaging in very sporadic communication with the outside world when it is strictly necessary. 
 
 
-## 𓎞 Hysthyalm, the Wandering Compass
+## ꙮ Yaefrem, the Sunlit Crown
+
 
 > [!caption|left]
-> ![[z_attachments/armoria/armoria_hysthyalm.png|250]]
-> Coat of arms of Hysthyalm
+> ![[z_attachments/armoria/armoria_yaefrem.png|250]]
+> Coat of arms of Yaefrem
 
-Profound [[Magic Intro|Fluxes of Magic]] course through [[Hysthyalm]], in every drop of water of its rivers and every little stone of its mountains and every tiny spark of its fires and every faint gust of air of its winds. 
+In a single word, the Commonwealth of [[Yaefrem]] can be—and often is—identified with one word: *supremacy*. Always priding itself its flagship trade, that of high-quality Magic Items, 
+

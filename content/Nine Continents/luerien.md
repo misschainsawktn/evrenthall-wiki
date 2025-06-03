@@ -1,5 +1,5 @@
 ---
-title: 🝳 Luerien, the Abyssal Lantern
+title: Luerien, the Abyssal Lantern
 draft: false
 tags:
   - space

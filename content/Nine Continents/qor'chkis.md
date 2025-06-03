@@ -1,5 +1,5 @@
 ---
-title: ⪀ Qor'chkis, the Glacial Fortress
+title: Qor'chkis, the Glacial Fortress
 draft: false
 tags:
   - space

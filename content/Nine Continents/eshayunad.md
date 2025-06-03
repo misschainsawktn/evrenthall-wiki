@@ -1,5 +1,5 @@
 ---
-title: ༺ Eshayunad, the Viridian Cradle
+title: Eshayunad, the Viridian Cradle
 draft: false
 tags:
   - space

@@ -1,5 +1,5 @@
 ---
-title: ⌯ Tellurväuhr, the Last Frontier
+title: Tellurväuhr, the Last Frontier
 draft: false
 tags:
   - space

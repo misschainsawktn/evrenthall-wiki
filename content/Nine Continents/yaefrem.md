@@ -1,5 +1,5 @@
 ---
-title: ꙮ Yaefrem, the Sunlit Crown
+title: Yaefrem, the Sunlit Crown
 draft: false
 tags:
   - space

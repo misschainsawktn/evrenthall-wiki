@@ -1,5 +1,5 @@
 ---
-title: ᨒ Xiranitzcaj, the Vivifying Hand
+title: Xiranitzcaj, the Vivifying Hand
 draft: false
 tags:
   - space

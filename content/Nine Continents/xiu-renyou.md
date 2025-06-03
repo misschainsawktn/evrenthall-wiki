@@ -1,5 +1,5 @@
 ---
-title: ꁨ Xiu-Renyou, the Visionary Chain
+title: Xiu-Renyou, the Visionary Chain
 draft: false
 tags:
   - space

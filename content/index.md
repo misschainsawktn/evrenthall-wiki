@@ -4,10 +4,10 @@ tags:
   - hub
   - y-2025
 ---
-> [!warning] A Warning for Players
+> [!warning]+ A Warning for Players
 > If you're one of my players, please do not read any articles tagged as #spoiler, as they might ruin your experience with some stuff! I will gradually remove spoiler tags as the exploration progresses, so you can access new info you gain access to at any time :)
 
-> [!danger] Another Warning...
+> [!danger]+ Another Warning...
 > Please note that the site is a *huge* work in progress. many pages are still a bit incomplete and the folders are still not really well organized, as they're not really in a specific order. Feel free to snoop around and explore the world as you enjoy anyway, even if it still lacking a lot of structure and some cohesion.
 
 ---
@@ -21,17 +21,19 @@ tags:
 The project, while somewhat older, has been undergoing a major revamp since **2025-04-15**, which is still ongoing as I'm typing this! My final objectives are to *improve my writing and languages skills* through worldbuilding, to *get more comfortable with social interactions* through a safe medium (such as playing TTRPGs), to further *my digital skills* via using certain tools, reading documentation about them and experimenting on my own, and, most importantly, to finally create something I'm satisfied with.
 Development is currently pretty active, as this is a passion project very near and dear to my heart — hope others will appreciate my work too!
 
-> [!abstract] Core Features
-> - A vast world, still young (having existed for only around 1300 years) and largely to be explored and discovered, piece by piece
-> - An intertwined presence of deities, magic and fantastical creatures to befriend or to fight
-> - A focus on different (in-universe) cultures, with explorations of their traditions, their beliefs and many other aspects of their identities
-> - A large array of characters spread across many tales and TTRPG campaigns, to tell nuanced stories and make the world feel even more alive
-
-> [!info] Leading Concepts
-> - Generally speaking a **Noble Neutral** fantasy setting, dipping into other setting alignments depending on the tale being told (an useful chart for understanding setting alignment can be found [here](https://www.tjtrewin.com/blog/worldbuilding-setting-alignment-chart)).
-> - A collaborative effort, almost completely written by me (**Jay**) but always open to contributions from my friends and players, whether directly or from events happening in our games or in their characters' backstories. 
-> - Sandbox-style worldbuilding, freely exploring concepts as they come and going with the flow. I don't know if it will ever be *finished*, per se; part of it is the fact that it is always evolving with me.
-> - A constant search for inspiration, using my own life experiences and my research as the foundation of what I end up writing into the world.
+> [!column|flex small-margin] 
+> 
+>> [!abstract] Core Features
+>> - A vast world, still young (having existed for only around 1300 years) and largely to be explored and discovered, piece by piece
+>> - An intertwined presence of deities, magic and fantastical creatures to befriend or to fight
+>> - A focus on different (in-universe) cultures, with explorations of their traditions, their beliefs and many other aspects of their identities
+>> - A large array of characters spread across many tales and TTRPG campaigns, to tell nuanced stories and make the world feel even more alive
+>
+>> [!info] Leading Concepts
+>> - Generally speaking a **Noble Neutral** fantasy setting, dipping into other setting alignments depending on the tale being told (an useful chart for understanding setting alignment can be found [here](https://www.tjtrewin.com/blog/worldbuilding-setting-alignment-chart)).
+>> - A collaborative effort, almost completely written by me (**Jay**) but always open to contributions from my friends and players, whether directly or from events happening in our games or in their characters' backstories. 
+>> - Sandbox-style worldbuilding, freely exploring concepts as they come and going with the flow. I don't know if it will ever be *finished*, per se; part of it is the fact that it is always evolving with me.
+>> - A constant search for inspiration, using my own life experiences and my research as the foundation of what I end up writing into the world.
 
 ---
 

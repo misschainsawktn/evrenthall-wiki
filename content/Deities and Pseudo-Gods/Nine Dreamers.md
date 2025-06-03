@@ -14,7 +14,7 @@ The **Nine Dreamers** are [[Pantheon#The Pseudo-Gods, A Different Matter Altoget
 ## ༺ Dharsovann
 
 > [!caption|left]
-> ![[z_attachments/icon/dharsovann_chaydanit.png|250]]
+> ![[z_attachments/icon/dharsovann_chaydanit.png|hsmall]]
 > Dharsovann Chaydanit
 
 **Dharsovann Chaydanit** (meaning “*Dharsovann, He Who Was Chosen by Ydani*”) was the legendary **First Emperor of [[Eshayunad]]** and is currently the continent's Dreamer. He was a [[Centaur]] from a small village in the West of the continent, who started to get prophetic visions from [[Ydani the Viridian]] when he turned 16 years old. The Amphytrion promised him a reign of peace and prosperity if he would serve them and spread their word among the people of the neighboring areas; Dharsovann decided to do so and follow them, and began his journey through the lands, which would result in the formation of the first three districts of the Empire.
@@ -27,7 +27,7 @@ Dharsovann's body, alongside those of his Praetorians, was moved to a specially-
 ## ꁨ Rosheul
 
 > [!caption|left]
-> ![[z_attachments/icon/rosheul_geomiyoh.png|250]]
+> ![[z_attachments/icon/rosheul_geomiyoh.png|hsmall]]
 > Rosheul Geomiyoh
 
 ciao

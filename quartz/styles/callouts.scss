@@ -520,17 +520,20 @@
     background-color: transparent;
     border: none;
     --columns: 2;
+    margin-bottom: 0;
+    margin-top: 0;
   }
   .callout[data-callout="column"] > .callout-content {
     /* Arranges the content in columns */
     display: grid;
     /* minmax sets the minimum width of a column. Make the columns 'skinnier' by setting 15rem to a smaller number */
-    grid-template-columns: repeat(var(--columns), minmax(15rem, 1fr));
+    grid-template-columns: repeat(var(--columns), minmax(5rem, 1fr));
     gap: 10px;
   }
   .callout[data-callout="column"] > .callout-title {
     /* Hides the callout title */
     display: none;
+    background-color: transparent;
   }
   
   .callout[data-callout*=column]:is([data-callout-metadata~=slim-margins],
