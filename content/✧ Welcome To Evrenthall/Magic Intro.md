@@ -54,3 +54,18 @@ The **Branches of Magic** pertain to the way the Fluxes of Magic are created and
 
 ---
 # Schools of Magic
+
+Rather than focusing on *how* a spell is cast as the Branches do, the **Schools of Magic** focus on *what* the spell being cast actually does. For convenience's sake, all known spells have been cataloged into 8 Schools, with the addition of a 9th "improper" School that is still listed with them, that of Perturbation. %% need to add them all still %%
+
+## Abjuration
+
+## Evocation
+
+## Divination
+
+## Necromancy
+
+
+## Perturbation
+
+Perturbation Magic, also known as Wild Magic, cannot be fully controlled and is generally a result of other stuff going on

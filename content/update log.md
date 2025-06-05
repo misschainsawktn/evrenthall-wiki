@@ -18,6 +18,10 @@ This log will include both content updates and updates to the site itself, added
 # %%General%% Update Log
 
 ## June 2025
+
+### June 5th
+- Added an [[about me]] page! Because God forbid I do not yap about myself for a little bit
+- More cosmetic tweaks... I finally managed to make the text a little bit smaller (I love small text. small text my beloved)
 ### June 3rd
 - Managed to get some CSS snippets I added to work, although I still can't figure the `[!column]` callout out...
 - Additional cosmetic updates and tweaks

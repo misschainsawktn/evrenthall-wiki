@@ -35,7 +35,7 @@ Development is currently pretty active, as this is a passion project very near a
 >
 >> [!info] Leading Concepts
 >> - Generally speaking a **Noble Neutral** fantasy setting, dipping into other setting alignments depending on the tale being told (an useful chart for understanding setting alignment can be found [here](https://www.tjtrewin.com/blog/worldbuilding-setting-alignment-chart)).
->> - A collaborative effort, almost completely written by me (**Jay**) but always open to contributions from my friends and players, whether directly or from events happening in our games or in their characters' backstories. 
+>> - A collaborative effort, almost completely written by me (**[[Jay]]**) but always open to contributions from my friends and players, whether directly or from events happening in our games or in their characters' backstories. 
 >> - Sandbox-style worldbuilding, freely exploring concepts as they come and going with the flow. I don't know if it will ever be *finished*, per se; part of it is the fact that it is always evolving with me.
 >> - A constant search for inspiration, using my own life experiences and my research as the foundation of what I end up writing into the world.
 

@@ -90,7 +90,8 @@ Of all the continents, [[Xiu-Renyou]] is the smallest and most isolated one, onl
 > ![[z_attachments/armoria/armoria_yaefrem.png|250]]
 > Coat of arms of Yaefrem
 
-> [!cite]
+> [!quote|no-t]
+> 
 > Oh, islands so vast the sun never sets,
 > 
 > 💬 Quote Author
