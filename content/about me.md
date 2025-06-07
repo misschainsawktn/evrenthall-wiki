@@ -2,7 +2,7 @@
 title: About Me
 draft: 
 tags:
-  - "#personal"
+  - "#meta"
 aliases:
   - Jay
   - Ely

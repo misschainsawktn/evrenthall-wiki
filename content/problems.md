@@ -2,7 +2,7 @@
 title: Known Issues
 draft: 
 tags:
-  - "#quartz"
+  - "#meta"
 ---
 - ~~The Favicon plugin is not working on Github Pages for some reason. It works just fine in the local preview, it *seems* to get pushed as it should, it just doesn't deploy. Might be an issue with Github Pages, might be an issue with me not understanding how this works, but unfortunately I can't seem to solve the issue yet.~~
 	- **==UPDATE 2025-06-03==**: apparently it *does* work. My Firefox instance in particular just refuses to display it, for some reason. Considering this solved unless the problem presents itself again.

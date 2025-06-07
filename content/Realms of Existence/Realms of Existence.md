@@ -1,5 +1,5 @@
 ---
-title: The Realms of Existence
+title: ✧  The Realms of Existence
 draft: true
 tags:
   - "#hub"
