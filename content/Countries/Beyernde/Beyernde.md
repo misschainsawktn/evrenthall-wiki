@@ -5,6 +5,7 @@ tags:
   - space
   - space/country
   - y-2025
+  - incomplete
 aliases:
   - Beyerndian
 ---
@@ -15,7 +16,7 @@ aliases:
 > | ʚ・ ୨୧・ ɞ | ⁠˖⁠ ꒰ 🍮 ⁠꒱ 彡  ๋࣭  ࣪ ˖✩ |
 > | ---- | ---- |
 > | Continent | [[Tellurväuhr]] |
-> | Population | (uhhhh tba) |
+> | Population | (tba) |
 > | Capital | [[Leipdunn]] |
 > | Largest City | [[Hagenstatt]] |
 > | Official Languages | Beyerndian, Tellvaihdian |

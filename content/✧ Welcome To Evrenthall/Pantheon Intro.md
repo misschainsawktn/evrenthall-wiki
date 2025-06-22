@@ -5,6 +5,7 @@ tags:
   - hub
   - lore
   - y-2025
+  - incomplete
 aliases:
   - Pantheon
 ---
@@ -18,20 +19,22 @@ Other creatures are known to be powerful enough to generate Fluxes without being
 ---
 # Classification of Deities
 
+>[!warning]  This section is severely incomplete.
 ## The Hegemon, God-Concepts
 
 The **Hegemon** are a load-bearing element of the structure of the Universe, woven in the fabric of Existence itself. 
 
 Hegemon are made of Essence, which is basically the pure, unlimited form of a concept. 
-The more of their Essence they put into a Manifestation, the more powerful it is, and the riskier beholding it gets...
+They do not have physical forms proper, as Amphytrion do; rather, they may employ Manifestations to 
+The more of their Essence they put into a Manifestation, the more powerful it is, and the riskier beholding it gets.
 
 ## The Amphytrion, God-Persons
 
-
+Amphytrion constitute a more standard pantheon: various entities, generally denizen-like, with control over a certain domain, venerated in most of Evrenthall.
 
 ## The Pseudo-Gods, A Different Matter Altogether
 
-
+Born (and sometimes still) mortal, through either divine favor or some other power, the **Pseudo-Gods** are creatures not strictly divine, but still able to generate Fluxes. 
 
 ---
 # Famous Deities
@@ -55,7 +58,6 @@ Mysterious Hegemon only manifesting through symbols to anyone who does not compl
 ### Primordial Hegemon
 
 Nine of the Hegemon have been present in the fabric of Existence from the very first instant that followed the Collision, from the very first moment the universe ceased being the two Worlds Before and became Evrenthall. They are each the incarnation of one of the Nine Elements of [[Myrieth, the Elemental Nexus|Myrieth]], and coexist in the precarious balance of a world still not quite settled into what it should be.
-
 
 auhghghh probably rewriting now that helymaid is a thing, they were the one that existed since the beginning and THEN came myrieth and all that shit
 
