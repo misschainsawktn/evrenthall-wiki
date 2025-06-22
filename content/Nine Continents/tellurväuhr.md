@@ -8,4 +8,5 @@ tags:
 aliases:
   - Tellurväuhr
 ---
+![[z_attachments/banner/tellurvauhr.jpg|hsmall wfull cover]]
 

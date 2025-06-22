@@ -8,3 +8,6 @@ tags:
 aliases:
   - Hysthyalm
 ---
+![[z_attachments/banner/hysthyalm.jpg|hsmall wfull cover]]
+
+

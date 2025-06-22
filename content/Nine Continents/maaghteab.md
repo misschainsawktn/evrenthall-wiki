@@ -8,3 +8,4 @@ tags:
 aliases:
   - Maaghteab
 ---
+![[z_attachments/banner/maaghteab.jpg|hsmall wfull cover]]

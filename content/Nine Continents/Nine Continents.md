@@ -7,9 +7,8 @@ tags:
   - "#y-2025"
 aliases:
   - Continents
-created: 2025-05-29
 ---
-The world of Evrenthall is divided into nine main landmasses, considered to be the **Nine Continents**. Each of them was shaped by one of the [[Pantheon#Founder Amphytrion|Founder Amphytrion]], giving it unique climatic, social and cultural characteristics setting it aside from the others.
+The world of Evrenthall is divided into nine main landmasses, considered to be the **Nine Continents**. Each of them was shaped by one of the [[Pantheon Intro#Founder Amphytrion|Founder Amphytrion]], giving it unique climatic, social and cultural characteristics setting it aside from the others.
 Each continent is associated with various symbols, generally unique and clearly distinguishable from those of the other continents: these include the respective coats of arms, the glyph associated with the continent name (pictured before it in most cases) or the title bestowed upon it, among other minor ones.
 
 ---
@@ -73,22 +72,6 @@ A ring encircling an expanse of saltwater, with wonders hidden both below, among
 
 According to the traditional history of Evrenthall, [[Maaghteab]] was the first of the continents to come into existence, and the one where [[Denizens]] first made their appearance.
 
-## ⌯ Tellurväuhr, the Last Frontier
-
-> [!caption|left]
-> ![[z_attachments/armoria/armoria_tellurvauhr.png|250]]
-> Coat of arms of Tellurväuhr
-
-> [!quote|no-t]
-> 
-> The gears will keep on turning anyway.
-> 
-> 💬 A common Tellvaihdian saying
-
-In common speech, [[Tellurväuhr]] is pretty much synonymous with progress, and for a good reason: of all the continents, it is the one where industrialization has reached its highest point, with technologies almost never seen anywhere else in Evrenthall being quite the common sight even in everyday life.
-
-While the old days of glory of the Tellurian Empire have been gone for a good while, 
-
 ## ⪀ Qor'chkis, the Glacial Fortress
 
 > [!caption|left]
@@ -105,6 +88,22 @@ The reputation of [[Qor'chkis]] precedes it
 
 
 a reputation for being a particularly inhospitable place, unkind to strangers not hailing from its lands, notoriously deadly for its inhabitants and foreigners alike.
+
+## ⌯ Tellurväuhr, the Last Frontier
+
+> [!caption|left]
+> ![[z_attachments/armoria/armoria_tellurvauhr.png|250]]
+> Coat of arms of Tellurväuhr
+
+> [!quote|no-t]
+> 
+> The gears will keep on turning anyway.
+> 
+> 💬 A common Tellvaihdian saying
+
+In common speech, [[Tellurväuhr]] is pretty much synonymous with progress, and for a good reason: of all the continents, it is the one where industrialization has reached its highest point, with technologies almost never seen anywhere else in Evrenthall being quite the common sight even in everyday life.
+
+While the old days of glory of the Tellurian Empire have been gone for a good while, 
 
 ## ᨒ Xiranitzcaj, the Vivifying Hand
 

@@ -25,4 +25,5 @@ tags:
 
 ## Video Games
 - Hollow Knight
+- Dark Souls
 

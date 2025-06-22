@@ -6,11 +6,10 @@ tags:
   - "#lore/deity"
   - "#lore/deity/pseudo-god"
   - "#y-2025"
-created: 2025-05-29
 ---
 # The Dreamers of Evrenthall
 
-The **Nine Dreamers** are [[Pantheon#The Pseudo-Gods, A Different Matter Altogether|Pseudo-Gods]] associated with [[Euneria]], the Realm of Dreams. Born as common mortals, 
+The **Nine Dreamers** are [[Pantheon Intro#The Pseudo-Gods, A Different Matter Altogether|Pseudo-Gods]] associated with [[Euneria]], the Realm of Dreams. Born as common mortals, 
 
 ## ༺ Dharsovann
 

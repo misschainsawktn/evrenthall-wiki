@@ -8,3 +8,5 @@ tags:
 aliases:
   - Xiu-Renyou
 ---
+![[z_attachments/banner/xiurenyou.jpg|hsmall wfull cover]]
+

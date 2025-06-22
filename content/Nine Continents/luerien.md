@@ -8,3 +8,4 @@ tags:
 aliases:
   - Luerien
 ---
+![[z_attachments/banner/luerien.jpg|hsmall wfull cover]]

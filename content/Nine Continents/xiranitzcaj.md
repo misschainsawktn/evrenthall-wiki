@@ -8,3 +8,4 @@ tags:
 aliases:
   - Xiranitzcaj
 ---
+![[z_attachments/banner/xiranitzcaj.jpg|hsmall wfull cover]]
