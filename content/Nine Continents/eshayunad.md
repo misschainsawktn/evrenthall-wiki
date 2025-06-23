@@ -16,4 +16,4 @@ aliases:
 
 # Geopolitics
 
-The continent of Eshayunad is completely under the control of the Empire of the same name
+The continent is completely under the control of the Empire of the same name, ruled by a dynasty descending from [[Nine Dreamers#༺ Dharsovann|Dharsovann Chaydanit]], First Emperor and Dreamer of Eshayunad.

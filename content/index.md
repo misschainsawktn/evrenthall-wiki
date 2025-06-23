@@ -31,12 +31,12 @@ Development is currently pretty active, as this is a passion project very near a
 >> - A vast world, still young (having existed for only around 1300 years) and largely to be explored and discovered, piece by piece
 >> - An intertwined presence of deities, magic and fantastical creatures to befriend or to fight
 >> - A focus on different (in-universe) cultures, with explorations of their traditions, their beliefs and many other aspects of their identities
->> - A large array of characters spread across many tales and TTRPG campaigns, to tell nuanced stories and make the world feel even more alive
+>> - A large array of characters spread across many tales and TTRPG campaigns, to tell nuanced stories and make the world feel even more alive; given its nature as a world studied for D&D, characters are created both by me and my friends
 >
 >> [!info] Leading Concepts
 >> - Generally speaking a **Noble Neutral** fantasy setting, dipping into other setting alignments depending on the tale being told (an useful chart for understanding setting alignment can be found [here](https://www.tjtrewin.com/blog/worldbuilding-setting-alignment-chart)).
->> - A collaborative effort, almost completely written by me (**[[Jay]]**) but always open to contributions from my friends and players, whether directly or from events happening in our games or in their characters' backstories. 
->> - Sandbox-style worldbuilding, freely exploring concepts as they come and going with the flow. I don't know if it will ever be *finished*, per se; part of it is the fact that it is always evolving with me.
+>> - A collaborative effort, almost completely written by me, but always open to contributions from my friends and players, whether directly or from events happening in our games or in their characters' backstories. 
+>> - Sandbox-style worldbuilding, freely exploring concepts as they come and going with the flow. I don't know if it will ever be *finished*, per se; a core part of the philosophy behind it is the fact that it is always evolving with me.
 >> - A constant search for inspiration, using my own life experiences and my research as the foundation of what I end up writing into the world.
 
 ---
@@ -106,7 +106,7 @@ Others, listed under "**Campaigns and Oneshots**", are instead written and inten
 
 ### 🍄 Morel Support
 
-![[z_attachments/banner/banner_MorelSupport.png|wmed left]]
+![[z_attachments/campaign/banner_MorelSupport.png|wmed left]]
 
 > [!abstract|title-center]+ Premise
 > A motley crew of [[Beyernde|Beyerndian]] explorers are sent on a mission to check in on some abnormal activity beyond the Frontiers of Progress. With the area being pretty much unexplored, who knows what they might run into...

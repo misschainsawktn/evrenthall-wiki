@@ -43,16 +43,18 @@ Born (and sometimes still) mortal, through either divine favor or some other pow
 
 ### Celestials
 
-Mysterious Hegemon only manifesting through symbols to anyone who does not complete their trials. While they do have titles describing what they *should* be, based on what is speculated of their trials, the true nature of their Essence is still unknown.
+Mysterious Hegemon only manifesting through symbols to anyone who does not complete their "trials". While they do have titles describing what they *should* be, based on what is speculated of their trials, the true nature of their Essence is still unknown. Why they challenge the ones seeking them is a mystery; the reward, even more so.
 
-- [[Haumei]], Celestial of Imprisonment
-- [[Nohttol]], Celestial of Philosophy
-- [[Retsmah]], Celestial of Antiquity
-- [[Syvis and Parable]], Celestials of Time and Space
-- [[Vy]], Celestial of Achievement
-- [[Mo-Razen]], Celestial of Memories
-- [[Lai'ten]], Celestial of Destruction
-- [[Helymaid]], Celestial of Existence
+>[!warning]- Huge spoilers if you are one of my players!! Don't look!!
+> - [[Haumei]], Celestial of Imprisonment
+> - [[Nohttol]], Celestial of Philosophy
+> - [[Retsmah]], Celestial of Antiquity
+> - [[Syvis and Parable]], Celestials of Time and Space
+> - [[Vy]], Celestial of Achievement
+> - [[Mo-Razen]], Celestial of Remembrance
+> - [[Lai'ten]], Celestial of Destruction
+> - [[Helymaid]], Celestial of Existence
+
 
 %%
 ### Primordial Hegemon

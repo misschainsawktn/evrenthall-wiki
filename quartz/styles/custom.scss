@@ -533,3 +533,9 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: #20928b; 
 }
+
+
+//remove tags in tag pages
+.page-listing .tag-link {
+  display: none;
+}

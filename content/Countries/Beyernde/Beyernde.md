@@ -11,7 +11,7 @@ aliases:
 ---
 > [!infobox|n-th]
 > ## Republic of Beyernde
-> ![[z_attachments/armoria/flag_beyernde.png|wsmall]]
+> ![[z_attachments/armoria/flag_beyernde.png|cover hsmall]]
 > ### Main Data
 > | ʚ・ ୨୧・ ɞ | ⁠˖⁠ ꒰ 🍮 ⁠꒱ 彡  ๋࣭  ࣪ ˖✩ |
 > | ---- | ---- |

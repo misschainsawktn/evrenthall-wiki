@@ -7,6 +7,7 @@ tags:
   - lore/deity/hegemon
   - y-2025
   - spoiler
+  - incomplete
 ---
 ![[z_attachments/banner/mother_of_all_pain.jpg|hsmall wfull cover p+tc]]
 
@@ -19,7 +20,7 @@ Few pray to the Mother of All Pain, for a number of reasons.
 
 First, not all are ready to accept that pain—any form of pain, including their own—is a neutral thing. Most think of pain as an evil to be avoided at all costs, others only seek the perverse pleasure that comes with inflicting pain onto people, some others try their best to steer clear from it while submitting to the notion that it is inevitable; few embrace pain as it is and find the strength to use it as a tool, and they are not always aware that they have caught her interest in some way.
 
-That is another one of the reasons her cult is somewhat limited: the Great Mother is very selective when it comes to her followers, and she is not above picking and choosing the ones she finds most interesting among those who suffer. For someone to be initiated, she must like them enough to want them at her side, and she does not make exceptions to this rule
+That is another one of the reasons her cult is somewhat limited: the Great Mother is very selective when it comes to her followers, and she is not above picking and choosing the ones she finds most interesting among those who suffer. For someone to be initiated, she must like them enough to want them at her side, and she does not make exceptions to this rule whatsoever.
 
 # Manifestations
 
@@ -39,14 +40,13 @@ The Essence put in this Manifestation is incredibly limited, and most of it is c
 
 ## Acolytes
 
+![[z_attachments/full_char_art/mother_of_all_pain_acolytes.jpeg|hm-sm ws-med cover right]]
+
+The most loyal followers of the Mother of All Pain, those who offered to fully devote themselves to her and saw their request accepted, get to behold a much more powerful Manifestation, much closer to the real nature of their Deity and, in their eyes, much more beautiful.
+
 > [!cite|subtitle] "UN CASTELLO Pt. 3" _Ozone Dehumanizer_
 > *Forse il dolore è una forma d'amore*  
 > *Forse l'amore è un eterno dolore*
-
-![[z_attachments/full_char_art/mother_of_all_pain_acolytes.jpeg|hm-sm ws-med cover right]]
-
-
-The most loyal followers of the Mother of All Pain, those who offered to fully devote themselves to her and saw their request accepted, get to behold a much more powerful Manifestation, much closer to the real nature of their Deity and, in their eyes, much more beautiful.
 
 The Great Mother's colors shine bright in this Manifestation, ever-changing and pure, and she no longer hides many parts of her body: while a veil still covers her face, one can see teeth and eyes poking through, and her cape no longer covers the many arms, turning into centipede legs, and her body, an elongated mass of flesh, pulsing and alive, nor does it hide the many hearts embedded in it.  
 That is, possibly, one of the most identifying features of the Mother of All Pain, those living, beating hearts finding their place in their own holes open in the Mother's body—hearts that once belonged to her Acolytes, and that she now always keeps with herself, *within* herself, as a pledge of devotion from her loving and beloved followers. Of course, she would never leave them completely hollow, as she greatly values their survival: to fill the gaping wound in their chest, she provides them with a core of [[Magic Intro|Magic]] and [[Essence]], capable of keeping the receiver alive even if their heart is gone.
@@ -55,7 +55,7 @@ The Essence of Pain in this Manifestation is still limited, yet enormous if comp
 
 # Other Names
 
-While the Mother of All Pain does not particularly mind any other name being used for her, some other epithets, titles and names are quite common.
+While the Mother of All Pain does not particularly mind any other name being used for her, some other epithets, titles and names are quite common, especially among those who follow her.
 
 - Great Mother
 - Auraile
